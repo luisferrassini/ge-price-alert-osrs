@@ -131,7 +131,7 @@ const getJson = async (id) => {
         $('.stats > h3:nth-child(1) > span:nth-child(1)').each((_idx, el) => {
             jsonRes.price = parseInt($(el).attr("title").replace(/,/g, ''))
         })
-    console.log(jsonRes)
+        console.log(jsonRes)
         return jsonRes;
     } catch (err) { throw err }
 }
