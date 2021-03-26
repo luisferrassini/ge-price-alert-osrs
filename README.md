@@ -8,3 +8,4 @@ Passos para criar:
 - criar o configdb.json seguindo o exemplo de configdb.json.example.json
 - colocar os acessos à um bd mySQL no configdb.json
 - executar table.sql no bd
+- na pasta do projeto executar ```npm install``` e node ```./index.js```
