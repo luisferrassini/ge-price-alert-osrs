@@ -1,4 +1,4 @@
-# ge-price-alert-osrs
+# GE Price Alert OSRS
 
 Um bot de discord feito em nodeJS
 
