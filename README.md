@@ -16,7 +16,7 @@ Passos para criar:
 - na pasta do projeto executar ```npm install``` e node ```./index.js```
 
 Ideias para melhorar:
-- colocar um regex pica pra pegar os argumentos da mensagem
+- colocar um regex daora pra pegar os argumentos da mensagem
 - ter uma opção para responder a pessoa diretamente (dm)
 - ter uma opção para configurar quantas vezes quer ser avisado e qual a frequência
 - ter uma opção para pegar os dados ou do GE diretamente ou do OSbuddy ou dos dois
