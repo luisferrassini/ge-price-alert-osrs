@@ -1,0 +1,27 @@
+{
+  "name": "ge-price-alert-osrs",
+  "version": "1.0.0",
+  "description": "Um bot de discord feito em nodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisferrassini/ge-price-alert-osrs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisferrassini/ge-price-alert-osrs/issues"
+  },
+  "homepage": "https://github.com/luisferrassini/ge-price-alert-osrs#readme"
+}
