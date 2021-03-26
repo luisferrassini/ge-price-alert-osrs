@@ -66,6 +66,8 @@ client.on("message", function(message) {
 
 checaItemGE()
 
+setInterval(checaItemGE, 1000 * 60 * 60)
+
 function sendDiscordMessage(msg, id_channel) {
     client.channels.cache.get(id_channel).send(msg)
 }
